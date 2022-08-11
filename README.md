@@ -1,5 +1,5 @@
 SPA Universe:
-Link para acesso: https://kassiaavieira.github.io/spaUniverse/
+
 Foi feito no projeto: 
 
 Layout do figma;
