@@ -1,6 +1,5 @@
 SPA Universe:
 
--Responsividade;
 - SPA;
 - Mapeamento de rotas;
 - Assíncrono e promises;
